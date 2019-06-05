@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+.regisLabel{
+	!important;
+}
+.disabled{
+    opacity: 0.5 !important;
+    cursor: not-allowed;
+    pointer-events: none
+}
+#footer{
+	background-color:#337ab7;
+	height: 70px;
+	text-align: center;
+	vertical-align: bottom;
+	line-height: 70px;
+	color: white;
+}
+.hidden{
+	display:none !important;
+}
+#login{
+	display:none;
+}
+.show{
+	display:block !important;
+}
+
+ul li{
+	list-style:none;
+}
